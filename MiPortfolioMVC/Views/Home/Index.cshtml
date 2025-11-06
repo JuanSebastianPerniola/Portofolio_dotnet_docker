@@ -1,8 +1,18 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
-    ViewData["Title"] = "Introduction";
 }
 
-<h1>@ViewData["Title"]</h1>
-<p>Hola, soy Juan Perniola.</p>
-<p>Bienvenido a mi portfolio hecho con Razor en .NET.</p>
+<section class="introduction">
+    <div class="profile-container">
+        <img src="~/Images/profile_image.png" alt="Profile photo of Juan Perniola" class="profile-pic" />
+        <div class="profile-text">
+            <h1>Juan Sebastián Perniola</h1>
+            <h3 class="text-dark">Software Developer | .NET Developer</h3>
+            <p>
+                I am a software developer specialized in backend integrations, currently working in the TravelTech industry.  
+                I’m passionate about building scalable solutions using .NET and C#, while continuously learning about APIs, automation, and cloud technologies.  
+                This portfolio is a personal project designed to showcase my skills and growth as a developer.
+            </p>
+        </div>
+    </div>
+</section>

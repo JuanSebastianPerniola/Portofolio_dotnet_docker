@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+
 html {
   font-size: 14px;
 }
@@ -8,7 +10,11 @@ html {
   }
 }
 
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
@@ -18,14 +24,114 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  color: #222;
+  background-color: #f9fafb;
+  line-height: 1.6;
 }
 
-.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+.form-floating>.form-control-plaintext::placeholder,
+.form-floating>.form-control::placeholder {
   color: var(--bs-secondary-color);
   text-align: end;
 }
 
-.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+.form-floating>.form-control-plaintext:focus::placeholder,
+.form-floating>.form-control:focus::placeholder {
   text-align: start;
+}
+
+/* Part new of my portfolio */
+
+.introduction {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15%;
+  padding: 20px;
+}
+
+.profile-container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  max-width: 900px;
+}
+
+.profile-pic {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.profile-text {
+  max-width: 600px;
+}
+
+.profile-text h1 {
+  margin-bottom: 5px;
+  font-size: 1.8em;
+}
+
+.profile-text h3 {
+  color: #666;
+  font-weight: normal;
+  margin-bottom: 15px;
+}
+
+.marinPersonalizedFooter {
+  margin-left: 1%;
+}
+
+.projects-section {
+  max-width: 850px;
+  margin: 50px auto;
+  padding: 10px 20px;
+}
+
+.project {
+    margin-bottom: 20px;
+    padding: 12px 16px;
+    border-left: 3px solid #0078d7; /* a small accent bar */
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+.project h3 {
+    margin: 0;
+    font-size: 1.05rem;
+}
+
+.project p {
+    margin-top: 6px;
+    font-size: 0.9rem;
+    color: #555;
+}
+
+.projects-section h1 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+.projects-section h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+  color: #444;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 4px;
+}
+
+.project h3 a {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.project h3 a:hover {
+    color: #0078d7; /* or #1f6feb for a GitHub-style blue */
 }
