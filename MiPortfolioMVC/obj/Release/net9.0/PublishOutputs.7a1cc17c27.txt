@@ -1,0 +1,7 @@
+C:\Users\juanp\Desktop\Portofolio_dotnet_docker\out\MiPortfolioMVC.exe
+C:\Users\juanp\Desktop\Portofolio_dotnet_docker\out\appsettings.Development.json
+C:\Users\juanp\Desktop\Portofolio_dotnet_docker\out\appsettings.json
+C:\Users\juanp\Desktop\Portofolio_dotnet_docker\out\MiPortfolioMVC.dll
+C:\Users\juanp\Desktop\Portofolio_dotnet_docker\out\MiPortfolioMVC.deps.json
+C:\Users\juanp\Desktop\Portofolio_dotnet_docker\out\MiPortfolioMVC.runtimeconfig.json
+C:\Users\juanp\Desktop\Portofolio_dotnet_docker\out\MiPortfolioMVC.pdb
