@@ -29,3 +29,4 @@ jobs:
           context: .
           push: true
           tags: jperniola123/portofolio_dotnet_docker:latest
+          
