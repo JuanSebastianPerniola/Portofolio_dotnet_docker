@@ -22,11 +22,12 @@ jobs:
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
-
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
         with:
           context: .
           push: true
           tags: jperniola123/portofolio_dotnet_docker:latest
-          
+      - name: Trigger Render Deploy 
+        run : | 
+          curl -X POST ${{secrets.RENDER_TRIGGER_WEBHOOK_URL}}
