@@ -83,8 +83,6 @@ C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_do
 C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\compressed\n2nas044vc-muycvpuwrr.gz
 C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\compressed\g4k96nm5g1-87fc7y1x7t.gz
 C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\compressed\p5oebjcbv2-mlv21k5csn.gz
-C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\compressed\b0jzywqi1g-f9xvm2knqw.gz
-C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\compressed\9a8d8nuy9d-f9xvm2knqw.gz
 C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\staticwebassets.development.json
@@ -95,3 +93,5 @@ C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_do
 C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\MiPortfolioMVC.genruntimeconfig.cache
 C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\ref\MiPortfolioMVC.dll
 C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\compressed\ccafqp2jna-77fyq7ibkz.gz
+C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\compressed\b0jzywqi1g-ueqazif9ec.gz
+C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\compressed\9a8d8nuy9d-ueqazif9ec.gz
