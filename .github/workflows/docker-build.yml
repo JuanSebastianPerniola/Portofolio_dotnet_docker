@@ -28,4 +28,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: juansebastianperniola/portofolio_dotnet_docker:latest
+          tags: jperniola123/portofolio_dotnet_docker:latest
+          
