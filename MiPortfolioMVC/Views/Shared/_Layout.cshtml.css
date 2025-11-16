@@ -38,6 +38,12 @@ button.accept-policy {
   font-size: 1rem;
   line-height: inherit;
 }
+.k8s-section {
+    margin-top: 20px;
+    margin-bottom: 60px; /* Ajusta según tu footer */
+    line-height: 1.6;
+    display: block;
+}
 
 .footer {
   position: absolute;
