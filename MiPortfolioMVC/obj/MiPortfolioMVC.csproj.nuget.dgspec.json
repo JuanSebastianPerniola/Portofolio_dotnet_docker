@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mindata.jperniola\\Desktop\\Portofolio_dotnet_docker\\Portofolio_dotnet_docker\\MiPortfolioMVC\\MiPortfolioMVC.csproj": {}
+    "C:\\Users\\juan\\Desktop\\Portofolio_dotnet_docker\\MiPortfolioMVC\\MiPortfolioMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mindata.jperniola\\Desktop\\Portofolio_dotnet_docker\\Portofolio_dotnet_docker\\MiPortfolioMVC\\MiPortfolioMVC.csproj": {
+    "C:\\Users\\juan\\Desktop\\Portofolio_dotnet_docker\\MiPortfolioMVC\\MiPortfolioMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mindata.jperniola\\Desktop\\Portofolio_dotnet_docker\\Portofolio_dotnet_docker\\MiPortfolioMVC\\MiPortfolioMVC.csproj",
+        "projectUniqueName": "C:\\Users\\juan\\Desktop\\Portofolio_dotnet_docker\\MiPortfolioMVC\\MiPortfolioMVC.csproj",
         "projectName": "MiPortfolioMVC",
-        "projectPath": "C:\\Users\\mindata.jperniola\\Desktop\\Portofolio_dotnet_docker\\Portofolio_dotnet_docker\\MiPortfolioMVC\\MiPortfolioMVC.csproj",
-        "packagesPath": "C:\\Users\\mindata.jperniola\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mindata.jperniola\\Desktop\\Portofolio_dotnet_docker\\Portofolio_dotnet_docker\\MiPortfolioMVC\\obj\\",
+        "projectPath": "C:\\Users\\juan\\Desktop\\Portofolio_dotnet_docker\\MiPortfolioMVC\\MiPortfolioMVC.csproj",
+        "packagesPath": "C:\\Users\\juan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan\\Desktop\\Portofolio_dotnet_docker\\MiPortfolioMVC\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mindata.jperniola\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -62,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\.net\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
