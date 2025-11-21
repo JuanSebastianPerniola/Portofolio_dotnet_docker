@@ -22,7 +22,7 @@ app.MapStaticAssets();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}") // here we say the main scree
+    pattern: "{controller=Home}/{action=Index}/{id?}") // here we say the main screen
     .WithStaticAssets();
 
 
