@@ -1,0 +1,21 @@
+@model CodeBoxModel
+
+<div class="codebox">
+    <h3>@Model.Title</h3>
+    <pre><code>@Model.Code</code></pre>
+</div>
+
+<style>
+    .codebox {
+        background:#1e1e1e;
+        color:white;
+        padding:15px;
+        border-radius:10px;
+        margin:20px 0;
+        border:1px solid #444;
+    }
+    .codebox pre {
+        white-space:pre-wrap;
+        font-family: Consolas, monospace;
+    }
+</style>

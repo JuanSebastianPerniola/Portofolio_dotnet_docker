@@ -31,5 +31,10 @@
         </p>
     </div>
 
+    @await Component.InvokeAsync("CodeBox", new { 
+        title = ".NET ThreadPool example", 
+        code = "var result = await Task.Run(() => 42);" 
+    })
+
 </section>
 
