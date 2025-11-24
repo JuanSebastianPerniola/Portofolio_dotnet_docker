@@ -93,8 +93,6 @@ C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_do
 C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\MiPortfolioMVC.genruntimeconfig.cache
 C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\ref\MiPortfolioMVC.dll
 C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\compressed\ccafqp2jna-77fyq7ibkz.gz
-C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\compressed\b0jzywqi1g-ueqazif9ec.gz
-C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\compressed\9a8d8nuy9d-ueqazif9ec.gz
 C:\Users\juanp\Desktop\Portofolio_dotnet_docker\MiPortfolioMVC\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\juanp\Desktop\Portofolio_dotnet_docker\MiPortfolioMVC\bin\Debug\net9.0\appsettings.json
 C:\Users\juanp\Desktop\Portofolio_dotnet_docker\MiPortfolioMVC\bin\Debug\net9.0\MiPortfolioMVC.staticwebassets.runtime.json
@@ -192,3 +190,5 @@ C:\Users\juanp\Desktop\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\
 C:\Users\juanp\Desktop\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\MiPortfolioMVC.pdb
 C:\Users\juanp\Desktop\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\MiPortfolioMVC.genruntimeconfig.cache
 C:\Users\juanp\Desktop\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\ref\MiPortfolioMVC.dll
+C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\compressed\b0jzywqi1g-g9xr8idlx8.gz
+C:\Users\mindata.jperniola\Desktop\Portofolio_dotnet_docker\Portofolio_dotnet_docker\MiPortfolioMVC\obj\Debug\net9.0\compressed\9a8d8nuy9d-g9xr8idlx8.gz

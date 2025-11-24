@@ -39,6 +39,12 @@ button.accept-policy[b-lvcomnskd4] {
   font-size: 1rem;
   line-height: inherit;
 }
+.k8s-section[b-lvcomnskd4] {
+    margin-top: 20px;
+    margin-bottom: 60px; /* Ajusta según tu footer */
+    line-height: 1.6;
+    display: block;
+}
 
 .footer[b-lvcomnskd4] {
   position: absolute;
