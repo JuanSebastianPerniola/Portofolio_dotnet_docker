@@ -1,8 +1,12 @@
-@model CodeBoxModel
+@model MiPortfolioMVC.Models.CodeBoxModel
 
-<div class="codebox">
-    <h3>@Model.Title</h3>
-    <pre><code>@Model.Code</code></pre>
+<div class="code-box">
+    @if (!string.IsNullOrWhiteSpace(Model.Title))
+    {
+        <h3>@Model.Title</h3>
+    }
+
+    <pre><code class="language-@Model.Language">@Model.Code</code></pre>
 </div>
 
 <style>

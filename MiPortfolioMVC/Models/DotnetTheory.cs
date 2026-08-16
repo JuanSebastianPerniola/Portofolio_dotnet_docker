@@ -1,18 +1,16 @@
-namespace DotnetTheory
+using System.ComponentModel.DataAnnotations;
+
+namespace MiPortfolioMVC.Models
 {
-    public class Theory
+    public class DotnetTheory
     {
-        // This class can be expanded with properties and methods related to .NET theory.
-    }
-    public class CodeSnippets
-    {
-        public int Id { get; set; }
         [Required, StringLength(100)]
-        public string Title { get; set; }
-        [Required, StringLength(30)]
-        public string Language { get; set; } // In this case is it safe in dotnet context
+        public string Title { get; set; } = string.Empty;
+
+        [Required, StringLength(500)]
+        public string Description { get; set; } = string.Empty;
+
         [Required]
-        public string Code { get; set; } // We store the code snippet here.
-        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+        public string Content { get; set; } = string.Empty;
     }
 }
